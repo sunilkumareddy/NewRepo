@@ -11,6 +11,9 @@ namespace ConsoleApp1
         void test()
         {
 
+            ContextStaticAttribute voi
+
+
         }
         
     }
